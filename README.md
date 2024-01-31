@@ -30,3 +30,6 @@ I wanted to come up with solutions that are easy to understand and read.
 - [26/01/2024](./solutions/daily-targets/2024/january/26012024.md)
 - [27/01/2024](./solutions/daily-targets/2024/january/27012024.md)
 - [28/01/2024](./solutions/daily-targets/2024/january/28012024.md)
+- [29/01/2024](./solutions/daily-targets/2024/january/29012024.md)
+- [30/01/2024](./solutions/daily-targets/2024/january/30012024.md)
+- [31/01/2024](./solutions/daily-targets/2024/january/31012024.md)
